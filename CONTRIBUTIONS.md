@@ -37,3 +37,30 @@ Bu dosya, takım üyelerinin Sprint 1 kapsamındaki GitHub katkılarını (Issue
 * **Assigned Issue:** [Issue #9](https://github.com/yigitgokmen/AI-Powered-Polyglot-Translator/issues/9)
 * **Pull Request:** [PR #10](https://github.com/yigitgokmen/AI-Powered-Polyglot-Translator/pull/10)
 * **Commit:** [cae33c7](https://github.com/yigitgokmen/AI-Powered-Polyglot-Translator/commit/cae33c7a974e1fda47d14e1ed92b150ee879c0b9)
+
+
+
+
+## Sprint 2 Contributions
+
+### Team Responsibilities
+
+| Team Member | Role | Sprint 2 Responsibilities |
+|---|---|---|
+| Hasan Mert KAYA | Product Owner | Detailed SRS and refined Product Backlog |
+| Muhammed Cavit DEMİRTAŞ | QA | Non-functional requirements and quality metrics |
+| Ege Berk GÜNDÜZ | Implementation Lead | Figma UI/UX prototypes and user-flow diagrams |
+| Muhammet Yasin HARMANDAR | Architecture | C4 models and UML diagrams |
+| Furkan YILMAZ | Scrum Master | Final report, Issue/PR tracking, CONTRIBUTIONS.md |
+| Yiğit GÖKMEN | DevOps | PR review/merge and Sprint 2 release tag |
+
+### Sprint 2 GitHub Evidence
+
+Sprint 2 Issue, Pull Request, and commit links will be added as the work is completed and verified.
+
+- Scrum Master Issue: https://github.com/yigitgokmen/AI-Powered-Polyglot-Translator/issues/21
+
+### Submission Status
+
+Sprint 2 deliverables are in progress. Final verification and submission are pending.
+
